@@ -5,7 +5,7 @@ In this workshop you'll learn how to add comprehensive visual testing to your Cy
 * [Workshop Overview](#-workshop-overview)
 * [Who Am I?](#-who-am-i)
 * [Before the Workshop](#-before-the-workshop)
-* [During the Workshop](#-during-the-workshop)
+* [The Workshop](#-the-workshop)
 
 ## 🔍 Workshop Overview
 Excited to learn? You should be! Here's some of the stuff we'll learn in this workshop:
