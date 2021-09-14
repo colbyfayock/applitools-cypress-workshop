@@ -65,7 +65,7 @@ The lessons directory includes a bunch of markdown files which includes instruct
 
 ### Lesson Plan
 
-* [00 - Introduction](https://github.com/colbyfayock/space-jelly-store-workshop/tree/main/lessons/00%20-%20Introduction)
+* [00 - Introduction](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/00%20-%20Introduction.md)
 *
 
 ## 🎓 After the Workshop
