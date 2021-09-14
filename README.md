@@ -53,6 +53,8 @@ You can either [download the repository as a ZIP](https://github.com/colbyfayock
 - [Download as a Zip](https://github.com/colbyfayock/applitools-cypress-workshop/archive/refs/heads/main.zip)
 - `git clone https://github.com/colbyfayock/applitools-cypress-workshop`
 
+Once you have the project downloaded or cloned, you can navigate to the [demo](https://github.com/colbyfayock/applitools-cypress-workshop/tree/main/demo) directory where you'll find instructions inside of the [README.md](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/demo/README.md) file for how to get started.
+
 ## 🖥 The Workshop
 
 ### Lessons Structure
