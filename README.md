@@ -2,10 +2,10 @@
 
 In this workshop you'll learn how to add comprehensive visual testing to your Cypress tests with Applitools Eyes
 
-* [Workshop Overview](#workshop-overview)
-* [Who Am I?](#who-am-i)
-* [Before the Workshop](#before-the-workshop)
-* [During the Workshop](#during-the-workshop)
+* [Workshop Overview](#-workshop-overview)
+* [Who Am I?](#-who-am-i)
+* [Before the Workshop](#-before-the-workshop)
+* [During the Workshop](#-during-the-workshop)
 
 ## 🔍 Workshop Overview
 Excited to learn? You should be! Here's some of the stuff we'll learn in this workshop:
@@ -49,9 +49,9 @@ For our project, we're going to be starting with an existing Cypress test that's
 
 I recommend having the project downloaded and running on your local environment before we start the workshop to ensure there are no issues.
 
-You can either download the repository as a ZIP file or you can use Git to clone it:
-- Download as a Zip
-- `git clone `
+You can either [download the repository as a ZIP](https://github.com/colbyfayock/applitools-cypress-workshop/archive/refs/heads/main.zip) file or you can use Git to clone it:
+- [Download as a Zip](https://github.com/colbyfayock/applitools-cypress-workshop/archive/refs/heads/main.zip)
+- `git clone https://github.com/colbyfayock/applitools-cypress-workshop`
 
 ## 🖥 The Workshop
 
@@ -61,8 +61,7 @@ There are two primary directories in this repository: demo and lessons.
 
 The demo is what it sounds like, it's the project that we'll use to start off and later add our visual tests.
 
-The lessons directory includes a bunch of markdown files which includes instructions for how we'll progress through the workshop. There will be a mix of exercises that we'll work through together, but also some extra credit that you can work through on your own if you want to take things a step further.
-
+The lessons directory includes a bunch of markdown files which includes instructions for how we'll progress through the workshop. There will be a mix of exercises that we'll work through together!
 
 ### Lesson Plan
 
