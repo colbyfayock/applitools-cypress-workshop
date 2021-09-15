@@ -40,7 +40,7 @@ The packages will be included in the repository when using `npm` to install and 
 
 This means that you should have basic familiar with a terminal as we'll be using it to run commands!
 
-The **operating system** you use shouldn't matter as long as you can run commands with npm (or yarn if that's your thing).
+The **operating system** you use shouldn't matter as long as you can run commands with npm.
 
 If you can run `npm -v` you should be good to go.
 
