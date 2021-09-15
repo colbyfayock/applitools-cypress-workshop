@@ -71,10 +71,8 @@ The lessons directory includes a bunch of markdown files which includes instruct
 - [00 - Introduction](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/00%20-%20Introduction.md)
 - [01 - Visual Testing](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/01%20-%20Visual%20Testing.md)
 - [02 - Testing with Cypress](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/02%20-%20Testing%20with%20Cypress.md)
-- [03 - Visual Bugs](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/03%20-%20Visual%20Bugs.md)
-- [04 - Applitools Eyes Cypress SDK](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/04%20-%20Applitools%20Eyes%20Cypress%20SDK.md)
-- [05 - Applitools Dashboard](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/05%20-%20Applitools%20Dashboard.md)
-- [06 - Applitools Ultrafast Grid](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/06%20-%20Applitools%20Ultrafast%20Grid.md)
+- [03 - Applitools Eyes Cypress SDK](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/03%20-%20Applitools%20Eyes%20Cypress%20SDK.md)
+- [04 - Applitools Ultrafast Grid](https://github.com/colbyfayock/applitools-cypress-workshop/blob/main/lessons/04%20-%20Applitools%20Ultrafast%20Grid.md)
 
 ## 🎓 After the Workshop
 
