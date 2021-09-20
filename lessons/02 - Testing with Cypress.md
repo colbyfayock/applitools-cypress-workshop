@@ -39,11 +39,6 @@ As great as Cypress is (and it's pretty great), it's not able to actually SEE wh
 
 We'll introduce a change to the demo application and re-run our tests to see how this can impact our tests.
 
-#### What to Run in Your Terminal
-* `npm run cy:open`
-
-_Note: make sure you navigate to the top of the `demo` directory before trying to run this command!_
-
 #### Where To Make a Change
 * `demo/cypress/integration/cart.spec.js`
 
@@ -53,3 +48,9 @@ https://deploy-preview-1--applitools-cypress-workshop-demo.netlify.app/
 ```
 
 > Want to see the change that was made? Check out the Pull Request for the visual bug at: https://github.com/colbyfayock/applitools-cypress-workshop-demo/pull/1
+
+
+#### What to Run in Your Terminal
+* `npm run cy:open`
+
+_Note: make sure you navigate to the top of the `demo` directory before trying to run this command!_
