@@ -30,7 +30,7 @@ You'll want to make sure that you meet the miminum environment requirements in t
 
 We unfortunately won't have time to debug individual setups, so if you're trying to follow along, it's important you can already perform the minimum tasks on your environment.
 
-You also can optionally sign up for a [free Applitools account](https://auth.applitools.com/users/register) ahead of time, but we'll be walking through that during our session.
+You also can optionally sign up for a [free Applitools account](https://applitools.info/g4l) ahead of time, but we'll be walking through that during our session.
 
 ### Environment Requirements
 There's one thing that is probably considered a "strict" requirements for the workshop:
