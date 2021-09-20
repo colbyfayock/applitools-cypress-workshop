@@ -24,7 +24,7 @@ To do this, we'll pass an array of browsers that we want to use right into our e
 browser: [
   { width: 800, height: 600, name: 'firefox' },
   { width: 1024, height: 768, name: 'chrome' },
-  { width: 1024, height: 768, name: 'ie11' }
+  { deviceName: 'iPhone X' }
 ]
 ```
 
