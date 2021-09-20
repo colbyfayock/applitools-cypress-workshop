@@ -80,6 +80,11 @@ npm run cy:open
 * [Applitools - Create a Free Account](https://auth.applitools.com/users/register)
 * [Applitools - Setting Up Your Environment](https://applitools.com/tutorials/getting-started/setting-up-your-environment.html)
 
+> Psst: need the URL for the visual bug again?
+```
+https://deploy-preview-1--applitools-cypress-workshop-demo.netlify.app/
+```
+
 ### 4. Viewing new test results in the Applitools Dashboard
 
 Now that we ran our first set of tests, we want to ultimately see what the results look like inside of our dashboard!
