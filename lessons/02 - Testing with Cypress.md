@@ -39,7 +39,7 @@ As great as Cypress is (and it's pretty great), it's not able to actually SEE wh
 
 We'll introduce a change to the demo application and re-run our tests to see how this can impact our tests.
 
-#### Where To Make a Change
+#### Where We'll Be Making Changes
 * `demo/cypress/integration/cart.spec.js`
 
 Update the URL on line 5 to:
