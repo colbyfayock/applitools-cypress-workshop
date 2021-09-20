@@ -2,7 +2,7 @@
 
 The good news, is it's not too much of a lift to add visual tests, in fact, we can add those visual tests right to our existing tests!
 
-While Applitools supports a [wide variety of SDKs](https://applitools.com/tutorials), we'll be looking at how we can add visual tests with the [Eyes Cypress SDK](https://www.npmjs.com/package/@applitools/eyes-cypress).
+While Applitools supports a [wide variety of SDKs](https://applitools.info/kka), we'll be looking at how we can add visual tests with the [Eyes Cypress SDK](https://www.npmjs.com/package/@applitools/eyes-cypress).
 
 ## Getting Started
 
@@ -77,8 +77,8 @@ npm run cy:open
 ```
 
 #### Resources
-* [Applitools - Create a Free Account](https://auth.applitools.com/users/register)
-* [Applitools - Setting Up Your Environment](https://applitools.com/tutorials/getting-started/setting-up-your-environment.html)
+* [Applitools - Create a Free Account](https://applitools.info/g4l)
+* [Applitools - Setting Up Your Environment](https://applitools.info/kka)
 
 > Psst: need the URL for the visual bug again?
 ```
@@ -94,7 +94,7 @@ Applitools is rich with features to help you not only see visual differences, bu
 We'll learn about tools like the Root Cause Analysis to see where the bug came from.
 
 #### Where We'll Be Looking
-* [Applitools Dashboard](https://eyes.applitools.com/app/test-results/)
+* [Applitools Dashboard](https://applitools.info/slo)
 
 #### Resources
-* [Applitools - Root Cause Analysis](https://applitools.com/root-cause-analysis/)
+* [Applitools - Root Cause Analysis](https://applitools.info/e2j)

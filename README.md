@@ -18,7 +18,7 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 ## 👨‍🚀 Who Am I?
 I'm Colby Fayock! 👋
 
-I help others get the tech out of the way to solve real problems with the tools of the web. I work with the dev community as a Developer Advocate at [Applitools](https://applitools.com/) and am a prolific creator of educational content around the web teaching others through learning by doing one Star Wars plush cuddle at a time.
+I help others get the tech out of the way to solve real problems with the tools of the web. I work with the dev community as a Developer Advocate at [Applitools](https://applitools.info/44h) and am a prolific creator of educational content around the web teaching others through learning by doing one Star Wars plush cuddle at a time.
 
 You might have seen some of my educational work across the web where I help others learn about Javascript, React, and the static web by creating [tutorials on YouTube](https://www.youtube.com/colbyfayock), writing about those tutorials on [spacejelly.dev](https://spacejelly.dev/), and I'm a course instructor with [egghead.io](https://egghead.io/instructors/colby-fayock?af=atzgap) and [Level Up Tutorials](https://www.leveluptutorials.com/tutorials/ecommerce-on-the-jamstack-with-snipcart-next-js-and-wordpress).
 

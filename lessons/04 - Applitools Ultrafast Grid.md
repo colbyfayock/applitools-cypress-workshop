@@ -33,7 +33,7 @@ browser: [
 
 #### Resources
 * [@applitools/eyes-cypress - Configuring the Browser](https://www.npmjs.com/package/@applitools/eyes-cypress#configuring-the-browser)
-* [Applitools - Ultrafast Test Cloud](https://applitools.com/product-ultrafast-test-cloud/)
+* [Applitools - Ultrafast Test Cloud](https://applitools.info/90r)
 
 ### 2. Run tests across multiple browsers
 
